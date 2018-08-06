@@ -50,6 +50,8 @@ along with sysdig.  If not, see <http://www.gnu.org/licenses/>.
 	FN(proc_startupdate_2)			\
 	FN(proc_startupdate_3)			\
 	FN(sys_socketpair_x)			\
+	FN(sys_setsockopt_x)			\
+	FN(sys_getsockopt_x)			\
 	FN(sys_connect_x)			\
 	FN(sys_accept4_e)			\
 	FN(sys_accept_x)			\
